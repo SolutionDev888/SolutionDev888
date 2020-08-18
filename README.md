@@ -7,7 +7,6 @@ Also, I am good at AR development using ARKit/ARCore or Unity/Unreal.
 - 👯 I worked closely with team members to produce high-quality deliverables.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerteam888&hide=javascript,html)](https://github.com/developerteam888/github-readme-stats)
 
 ![Pro_Dev's github stats](https://github-readme-stats.vercel.app/api?username=developerteam888&count_private=true)
 
