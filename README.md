@@ -1,10 +1,7 @@
 ### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeveloperteam888%2Fhit-counter)](https://hits.seeyoufarm.com)
 I am a Senior Software Developer and have rich experience in mobile/web development.
 Also, I am good at AR development using ARKit/ARCore or Unity/Unreal.
-<!--
-**developerteam888/developerteam888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Remote
 - 👯 I worked closely with team members to produce high-quality deliverables.
