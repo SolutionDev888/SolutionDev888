@@ -8,4 +8,4 @@ Also, I am good at AR development using ARKit/ARCore or Unity/Unreal.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerteam888)](https://github.com/anuraghazra/github-readme-stats)
 
-![Code Dragon's github stats](https://github-readme-stats.vercel.app/api?username=developerteam888&show_icons=true&theme=vue)
+![Pro Dev's github stats](https://github-readme-stats.vercel.app/api?username=developerteam888&show_icons=true&theme=vue)
