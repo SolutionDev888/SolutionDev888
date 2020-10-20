@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSolutionDev888%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPROCW%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 I am a Senior Software Developer and have rich experience in mobile/web/Unity development.
 
@@ -22,5 +22,5 @@ I am a Senior Software Developer and have rich experience in mobile/web/Unity de
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p>&nbsp;</p>
   
 
-![Pro_Dev's github stats](https://github-readme-stats.vercel.app/api?username=SolutionDev888&count_private=true)
+![Pro_Dev's github stats](https://github-readme-stats.vercel.app/api?username=PROCW&count_private=true)
 
