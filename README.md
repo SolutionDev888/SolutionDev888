@@ -1,10 +1,10 @@
-### Hi there 👋
+### プロフィールをご覧いただき、ありがとうございます。👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPROCW%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-I am a Senior Software Developer and have rich experience in mobile/web/Unity development.
-
-- 🔭 I’m currently working remotely.
-- 👯 I worked closely with team members to produce high-quality deliverables.
+主にスマホアプリ開発、ウェブサイト開発、ゲーム開発、デスクトップアプリ開発を行っております。
+平日は8～10時間、休日は5時間で在宅ワークをお受けしております。
+納期を守ることはもちろん、丁寧なコミュニケーションを心がけております。
+ご連絡いただければ、すぐに対応できる態勢を整えておりますので、どうぞよろしくお願いします。
 
 <p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" alt="android" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/>
