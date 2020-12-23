@@ -14,12 +14,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p>&nbsp;</p>
+
   
 
 ![Pro_Dev's github stats](https://github-readme-stats.vercel.app/api?username=PROCW&count_private=true)
